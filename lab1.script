@@ -1,0 +1,27 @@
+Script started on 2017年03月13日 (週一) 21時18分17秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=tiw0307@gmail.com
+user.name=jojotiw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/jojotiw/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/<your github account>/la b1.git
+bash: your: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/<your github account>/la b1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1[1P.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.[1Pgit[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.g[1Pit[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.gi[1Pt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git[K[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitj/lab1.gito/lab1.gitj/lab1.gito/lab1.gitt/lab1.giti/lab1.gitw/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月13日 (週一) 21時19分15秒
