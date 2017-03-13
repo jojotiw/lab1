@@ -1,1 +1,1 @@
-# lab1
+# g++ -o qb qb.cpp
